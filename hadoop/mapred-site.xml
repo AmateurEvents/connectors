@@ -1,0 +1,7 @@
+<configuration>
+    <!-- 通知框架MR使用YARN -->
+    <property>
+        <name>mapreduce.framework.name</name>
+        <value>yarn</value>
+    </property>
+</configuration>

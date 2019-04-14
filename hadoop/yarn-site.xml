@@ -1,0 +1,7 @@
+<configuration>
+    <!-- reducer取数据的方式是mapreduce_shuffle -->
+    <property>
+        <name>yarn.nodemanager.aux-services</name>
+        <value>mapreduce_shuffle</value>
+    </property>
+</configuration>

@@ -1,0 +1,6 @@
+configs:
+  "hdfsConfigResources": "core-site.xml,hdfs-site.xml"
+  "directory": "/user/hive/warehouse/test"
+  "filenamePrefix": "prefix"
+  "separator": "\n"
+  "encoding": "UTF-8"
